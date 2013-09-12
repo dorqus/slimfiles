@@ -1,0 +1,7 @@
+ChromeBookmarksSyncAdapter.apk
+Gmail.apk
+GoogleBackupTransport.apk
+GoogleFeedback.apk
+Hangouts.apk
+Music.apk
+VisualizationWallpapers.apk
