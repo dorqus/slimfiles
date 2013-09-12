@@ -1,0 +1,14 @@
+BasicDreams.apk
+DashClock.apk
+LatinIME.apk
+LiveWallpapersPicker.apk
+Music.apk
+NfcNci.apk
+PhaseBeam.apk
+PhotoTable.apk
+SlimFileManager.apk
+SlimIRC.apk
+Tag.apk
+ThemeChooser.apk
+ThemeManager.apk
+Torch.apk
