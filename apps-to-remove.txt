@@ -12,3 +12,4 @@ Tag.apk
 ThemeChooser.apk
 ThemeManager.apk
 Torch.apk
+VisualizationWallpapers.apk
