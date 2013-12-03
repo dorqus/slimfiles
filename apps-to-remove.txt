@@ -1,6 +1,5 @@
 BasicDreams.apk
 DashClock.apk
-LatinIME.apk
 LiveWallpapersPicker.apk
 Music.apk
 NfcNci.apk

@@ -1,7 +1,13 @@
 ChromeBookmarksSyncAdapter.apk
+Email.apk
+Exchange2.apk
+FaceLock.apk
 Gmail.apk
 GoogleBackupTransport.apk
+GoogleEars.apk
 GoogleFeedback.apk
+GooglePlus.apk
 Hangouts.apk
 Music.apk
+Velvet.apk
 VisualizationWallpapers.apk
