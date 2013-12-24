@@ -1,8 +1,9 @@
 BasicDreams.apk
 DashClock.apk
+Email.apk
+Exchange2.apk
 LiveWallpapersPicker.apk
 Music.apk
-NfcNci.apk
 PhaseBeam.apk
 PhotoTable.apk
 SlimFileManager.apk
