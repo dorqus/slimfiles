@@ -3,7 +3,10 @@ DashClock.apk
 Email.apk
 Exchange2.apk
 LiveWallpapersPicker.apk
+MagicSmokeWallpapers.apk
+Microbes.apk
 Music.apk
+NoiseField.apk
 PhaseBeam.apk
 PhotoTable.apk
 SlimFileManager.apk
@@ -12,4 +15,5 @@ Tag.apk
 ThemeChooser.apk
 ThemeManager.apk
 Torch.apk
+UnicornPorn.apk
 VisualizationWallpapers.apk
