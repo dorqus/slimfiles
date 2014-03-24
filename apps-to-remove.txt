@@ -6,6 +6,7 @@ LiveWallpapersPicker.apk
 MagicSmokeWallpapers.apk
 Microbes.apk
 Music.apk
+NfcNci.apk
 NoiseField.apk
 PhaseBeam.apk
 PhotoTable.apk
