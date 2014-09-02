@@ -14,6 +14,5 @@ SlimIRC.apk
 Tag.apk
 ThemeChooser.apk
 ThemeManager.apk
-Torch.apk
 UnicornPorn.apk
 VisualizationWallpapers.apk
